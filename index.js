@@ -64,6 +64,20 @@ inquiree.prompt([
         message: "Did you ren into any unanswered questions?",
         name: "Application Questions"
     }
+// What to do when I get the answers
+HTMLMenuElement(function(response){
+    // Log answers
+    // console.log answers
+    fs.writeFile(response.name+".json", JSON.stringify(response),function)
+    if(err){
+        throw err
+    }
+    console.log()
+}
+
+
+
+
 ])
 
 
