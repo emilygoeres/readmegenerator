@@ -1,5 +1,5 @@
 # readmegenerator
-<h1>Title of Project</h1>
+Title of Project
 readmegenerator
 
 Project Description:
@@ -18,3 +18,8 @@ Steps I took to complete assignment:
 4. created the function that'll generate the readMe template
 5. Used inquiirer to prompt user about questions regarding their project
 6. created a .then function to log answers in the console.log 
+
+<!-- sample to add photo ![Password Generator](https://github.com/emilygoeres/password-generator/blob/master/password2.png) -->
+
+##### Emily Goeres, 
+### Univeristy of Washington
