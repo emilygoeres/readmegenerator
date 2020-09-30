@@ -25,7 +25,26 @@ inquiree.prompt([
     type:"checkbox",
     message:"Please Add a Table of Contents",
     name:"Project Table of Contents"
-    choices:["index.js", "package-lock.js", "package.json", "style.css" , "index.html", "readMe"]
+    choices:["index.js", "package-lock.js", "package.json", "style.css" , "index.html", "images", "readMe"]
+}
+// Question 4
+{
+    type:"checkbox",
+    message:"Did you install anything?",
+    name:"Project Installations"
+    choices:[""]
+}
+// Question 5
+{
+    type:"input",
+    message:"What is the application used for?",
+    name:"application usage"
+}
+// Question 6
+{
+    type:"input",
+    message:"Does this application need a license?",
+    name:"application license"
 }
 ])
 
@@ -33,9 +52,9 @@ inquiree.prompt([
 
 
 
-* Table of Contents
-* Installation
-* Usage
+
+
+
 * License
 * Contributing
 * Tests
