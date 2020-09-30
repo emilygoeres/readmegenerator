@@ -1,5 +1,5 @@
 # readmegenerator
-Title of Project:
+<h1>Title of Project</h1>
 readmegenerator
 
 Project Description:
