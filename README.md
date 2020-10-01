@@ -24,6 +24,7 @@ Steps I took to complete assignment:
 ![README Generator](https://github.com/emilygoeres/readmegenerator/blob/master/readme1.PNG)
 
 Link to Video:
+https://drive.google.com/file/d/18TPZX3F2SWv6ClJR8FDKseu8L27WSCRc/view
 
 Link to README Info:
 https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html
