@@ -19,8 +19,8 @@ Steps I took to complete assignment:
 5. Used inquiirer to prompt user about questions regarding their project
 6. created a .then function to log answers in the console.log 
 
-[README Generator](https://github.com/emilygoeres/readmegenerator/blob/master/readme.png) 
-[README Generator](https://github.com/emilygoeres/readmegenerator/blob/master/readme1.png) 
+[README Generator](https://github.com/emilygoeres/readmegenerator/master/readme.png) 
+[README Generator](https://github.com/emilygoeres/readmegenerator/master/readme1.png) 
 
 ##### Emily Goeres, 
 ### Univeristy of Washington
