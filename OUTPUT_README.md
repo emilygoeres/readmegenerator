@@ -1,10 +1,10 @@
 
-# cheese
+# README Generator
 ------------------------
-_cheese_
+_node.js application with inquirer_
 --------------------------------
-## author: cheese
-## Developer Profile: https://github.com/cheese
+## author: Emily Goeres
+## Developer Profile: https://github.com/emilygoeres
 
     // This is how you make it so the links will work, so when you click on the portion of the table of contents it goes to that portion of the page
 ### Table Of Contents
@@ -19,10 +19,10 @@ _cheese_
 
 
 ## usage
-cheese
+Used to create a professional readme page
 ## Installation
-cheese
+npm i inquirer
 ## Test
-cheese
-If you have any questions regarding this project please reach me at cheese
+manuel
+If you have any questions regarding this project please reach me at goeres123@hotmail.com
     

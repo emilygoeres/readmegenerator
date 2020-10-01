@@ -20,8 +20,6 @@ Steps I took to complete assignment:
 5. Used inquirer to prompt user about questions regarding their project
 6. created a .then function to log answers in the console.log 
 
-<!-- ![README Generator](https://github.com/emilygoeres/readmegenerator/blob/master/readme.PNG)  -->
-
 ![README Generator](https://github.com/emilygoeres/readmegenerator/blob/master/readme.PNG)
 ![README Generator](https://github.com/emilygoeres/readmegenerator/blob/master/readme1.PNG)
 
