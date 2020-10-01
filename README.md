@@ -11,6 +11,8 @@ Installed npm init and npm inquirer
 Usage:
 This application is going to be used for assignments so going forward I have a well organized detailed README page.
 
+Technologies Used:
+
 Steps I took to complete assignment:
 1. Downloaded npm init and npm install inquirer
 2. Added npm modules: require fs, require inquirer
@@ -19,8 +21,11 @@ Steps I took to complete assignment:
 5. Used inquiirer to prompt user about questions regarding their project
 6. created a .then function to log answers in the console.log 
 
-![README Generator](https://github.com/emilygoeres/readmegenerator/master/readme.png) 
-![README Generator](https://github.com/emilygoeres/readmegenerator/master/readme1.png) 
+![README Generator](https://github.com/emilygoeres/readmegenerator/blob/master/readme.PNG) 
+![README Generator](https://github.com/emilygoeres/readmegenerator/blob/master/readme1.png) 
+
+Link to Video:
+
 
 ##### Emily Goeres, 
 ### Univeristy of Washington

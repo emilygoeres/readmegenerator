@@ -68,7 +68,7 @@ inquiree.prompt([
     console.log(response)
         // Log answers
         // console.log answers
-        fs.writeFile(response.name + ".json", JSON.stringify(response), function)
+        fs.writeFile(response.name + ".json", JSON.stringify(response) (function)
         if (err) {
             throw err
         }
