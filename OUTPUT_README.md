@@ -1,10 +1,10 @@
 
 # README Generator
 ------------------------
-_node.js application with inquirer_
+_cheese_
 --------------------------------
-## author: Emily Goeres
-## Developer Profile: https://github.com/emilygoeres
+## author: cheese
+## Developer Profile: https://github.com/cheese
 
 ### Table Of Contents
 * [license](#license)
@@ -18,10 +18,10 @@ _node.js application with inquirer_
 
 
 ## usage
-For all projects
+cheese
 ## Installation
-NPM I Inquirer
+cheese
 ## Test
-Manueal
-If you have any questions regarding this project please reach me at goeres123@hotmail.com
+cheese
+If you have any questions regarding this project please reach me at cheese
     

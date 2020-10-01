@@ -2,80 +2,72 @@
 
 var inquirer = require("inquirer");
 var fs = require('fs');
-// const Choices = require("inquirer/lib/objects/choices");
 
 // Ask User Questions about their readMe file
 
 inquirer.prompt([
 
-    // Question 1
+    // Questions that will be prompted to the user
     {
         type: "input",
         message: "What is the TITLE of your project?",
         name: "ProjectName",
     },
-    // Question 2
+
     {
         type: "input",
         message: "What is the DESCRIPTION of your project?",
         name: "ProjectDescription",
     },
-    // Question 3
+
     {
         type: "checkbox",
-        message: "Choose project license",
+        message: "Choose project LICENSE",
         name: "applicationlicense",
         choices: ["MIT", "ISC", "Apache 2.0", "None"],
     },
-    // Question 4
+
     {
         type: "input",
-        message: "Did you install anything?",
+        message: "Did you INSTALL anything?",
         name: "ProjectInstallations",
     },
-    // Question 5
+
     {
         type: "input",
         message: "What's your Github username?",
         name: "username",
     },
-    // Question 6
-    // {
-    //     type: "input",
-    //     message: "Does this application need a license?",
-    //     name: "applicationlicense",
-    // },
-    // Question 7
+
     {
         type: "input",
-        message: "What was your contribution?",
+        message: "Who contributed to project?",
         name: "contribution",
     },
-    // Question 8
+
     {
         type: "input",
-        message: "Did you run any tests for your application?",
+        message: "Did you run any TESTS for your application?",
         name: "TestApplication",
     },
-    // Question 9
+
     {
         type: "input",
         message: "What is your email?",
         name: "email",
     },
-    // {
-    //     type: "input",
-    //     message: "What's your Github username?",
-    //     name: "username",
-    // },
+
     {
         type: "input",
         message: "Terms of usage",
         name: "usage",
     }
 
+    // This is getting the answer from the user and printing it in the terminal
 ]).then(function (response) {
     console.log(response)
+
+    // This is where it's grabbing the object and is looking through the answers for the value with the same name
     var readMeText = `
 # ${response.ProjectName}
 ------------------------
@@ -105,14 +97,15 @@ If you have any questions regarding this project please reach me at ${response.e
     `
     console.log(readMeText)
 
+    // This is where all my info will be printed in vs code and in the web.
     fs.writeFileSync("OUTPUT_README.md", readMeText, function (err) {
         if (err) {
             throw err
         }
         console.log("File Generator")
     })
-        
-    });
+
+});
 
 
 
