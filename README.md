@@ -3,13 +3,13 @@ Title of Project
 readmegenerator
 
 Project Description:
-This project teaches you how to make a professional readMe file for your future projects.
+This project teaches you how to make a professional READMe file for your projects.
 
 Installations:
 Installed npm init and npm inquirer
 
 Usage:
-This application is going to be used for future assignments so going forward I have a well organized details readMe page.
+This application is going to be used for assignments so going forward I have a well organized detailed README page.
 
 Steps I took to complete assignment:
 1. Downloaded npm init and npm install inquirer
@@ -19,7 +19,8 @@ Steps I took to complete assignment:
 5. Used inquiirer to prompt user about questions regarding their project
 6. created a .then function to log answers in the console.log 
 
-<!-- sample to add photo ![Password Generator](https://github.com/emilygoeres/password-generator/blob/master/password2.png) -->
+[README Generator](https://github.com/emilygoeres/readmegenerator/blob/master/readme.PNG) 
+[README Generator](https://github.com/emilygoeres/readmegenerator/blob/master/readme1.PNG) 
 
 ##### Emily Goeres, 
 ### Univeristy of Washington
