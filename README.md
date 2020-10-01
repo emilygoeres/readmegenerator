@@ -1,17 +1,16 @@
 # readmegenerator
-Title of Project
+Title of Project:
 readmegenerator
 
 Project Description:
-This project teaches you how to make a professional READMe file for your projects.
+This project teaches you how to make a professional README file for your projects.
+
 
 Installations:
 Installed npm init and npm inquirer
 
 Usage:
 This application is going to be used for assignments so going forward I have a well organized detailed README page.
-
-Technologies Used:
 
 Steps I took to complete assignment:
 1. Downloaded npm init and npm install inquirer
