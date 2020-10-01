@@ -1,10 +1,10 @@
 
-# readme generator
+# README Generator
 ------------------------
 _node.js application with inquirer_
 --------------------------------
 ## author: Emily Goeres
-## Developer Profile: https://github.com/undefined
+## Developer Profile: https://github.com/emilygoeres
 
 ### Table Of Contents
 * [license](#license)
@@ -18,10 +18,10 @@ _node.js application with inquirer_
 
 
 ## usage
-undefined
+For all projects
 ## Installation
-NPM i inquirer
+NPM I Inquirer
 ## Test
-manual
+Manueal
 If you have any questions regarding this project please reach me at goeres123@hotmail.com
     

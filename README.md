@@ -22,7 +22,6 @@ Steps I took to complete assignment:
 6. created a .then function to log answers in the console.log 
 
 <!-- ![README Generator](https://github.com/emilygoeres/readmegenerator/blob/master/readme.PNG)  -->
-<!-- ![README Generator](https://github.com/emilygoeres/readmegenerator/blob/master/readme1.png)  -->
 
 Link to Video:
 

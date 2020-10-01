@@ -37,14 +37,14 @@ inquirer.prompt([
     {
         type: "input",
         message: "What's your Github username?",
-        name: "useername",
+        name: "username",
     },
     // Question 6
-    {
-        type: "input",
-        message: "Does this application need a license?",
-        name: "applicationlicense",
-    },
+    // {
+    //     type: "input",
+    //     message: "Does this application need a license?",
+    //     name: "applicationlicense",
+    // },
     // Question 7
     {
         type: "input",
@@ -63,12 +63,17 @@ inquirer.prompt([
         message: "What is your email?",
         name: "email",
     },
-       {
+    // {
+    //     type: "input",
+    //     message: "What's your Github username?",
+    //     name: "username",
+    // },
+    {
         type: "input",
-        message: "What's your Github username?",
-        name: "useername",
+        message: "Terms of usage",
+        name: "usage",
     }
-    // What to do when I get the answers
+
 ]).then(function (response) {
     console.log(response)
     var readMeText = `
@@ -91,7 +96,7 @@ _${response.ProjectDescription}_
 
 
 ## usage
-${response.applicationusage}
+${response.usage}
 ## Installation
 ${response.ProjectInstallations}
 ## Test
