@@ -21,11 +21,13 @@ Steps I took to complete assignment:
 5. Used inquiirer to prompt user about questions regarding their project
 6. created a .then function to log answers in the console.log 
 
-![README Generator](https://github.com/emilygoeres/readmegenerator/blob/master/readme.PNG) 
-![README Generator](https://github.com/emilygoeres/readmegenerator/blob/master/readme1.png) 
+<!-- ![README Generator](https://github.com/emilygoeres/readmegenerator/blob/master/readme.PNG)  -->
+<!-- ![README Generator](https://github.com/emilygoeres/readmegenerator/blob/master/readme1.png)  -->
 
 Link to Video:
 
+Link to README Info:
+https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html
 
 ##### Emily Goeres, 
 ### Univeristy of Washington
