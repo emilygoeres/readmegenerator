@@ -22,6 +22,9 @@ Steps I took to complete assignment:
 
 <!-- ![README Generator](https://github.com/emilygoeres/readmegenerator/blob/master/readme.PNG)  -->
 
+![README Generator](https://github.com/emilygoeres/readmegenerator/blob/master/readme.PNG)
+![README Generator](https://github.com/emilygoeres/readmegenerator/blob/master/readme1.PNG)
+
 Link to Video:
 
 Link to README Info:
