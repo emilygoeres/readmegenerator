@@ -76,6 +76,7 @@ _${response.ProjectDescription}_
 ## author: ${response.contribution}
 ## Developer Profile: https://github.com/${response.username}
 
+    // This is how you make it so the links will work, so when you click on the portion of the table of contents it goes to that portion of the page
 ### Table Of Contents
 * [license](#license)
 * [usage](#usage)

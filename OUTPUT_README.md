@@ -1,11 +1,12 @@
 
-# README Generator
+# cheese
 ------------------------
-_How to use node.js application with inquirer_
+_cheese_
 --------------------------------
-## author: Emily Goeres
-## Developer Profile: https://github.com/emilygoeres
+## author: cheese
+## Developer Profile: https://github.com/cheese
 
+    // This is how you make it so the links will work, so when you click on the portion of the table of contents it goes to that portion of the page
 ### Table Of Contents
 * [license](#license)
 * [usage](#usage)
@@ -18,10 +19,10 @@ _How to use node.js application with inquirer_
 
 
 ## usage
-Used to learn about node.js, npm i inquirer and npm init
+cheese
 ## Installation
-npm i inquirer
+cheese
 ## Test
-manuel
-If you have any questions regarding this project please reach me at goeres123@hotmail.com
+cheese
+If you have any questions regarding this project please reach me at cheese
     

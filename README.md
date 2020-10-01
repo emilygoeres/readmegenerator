@@ -17,7 +17,7 @@ Steps I took to complete assignment:
 2. Added npm modules: require fs, require inquirer
 3. Created my array of questions
 4. created the function that'll generate the readMe template
-5. Used inquiirer to prompt user about questions regarding their project
+5. Used inquirer to prompt user about questions regarding their project
 6. created a .then function to log answers in the console.log 
 
 <!-- ![README Generator](https://github.com/emilygoeres/readmegenerator/blob/master/readme.PNG)  -->
