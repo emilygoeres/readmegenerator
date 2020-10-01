@@ -1,10 +1,10 @@
 
-# cheese
+# readme generator
 ------------------------
-_cheese_
+_node.js application with inquirer_
 --------------------------------
-## author: cheese
-
+## author: Emily Goeres
+## Developer Profile: https://github.com/undefined
 
 ### Table Of Contents
 * [license](#license)
@@ -14,11 +14,14 @@ _cheese_
 
 
 ## license
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+
 ## usage
-cheese
+undefined
 ## Installation
-cheese
+NPM i inquirer
 ## Test
-cheese
-If you have any questions regarding this project please reach me at cheese
+manual
+If you have any questions regarding this project please reach me at goeres123@hotmail.com
     

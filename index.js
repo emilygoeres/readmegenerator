@@ -33,7 +33,12 @@ inquirer.prompt([
         message: "Did you install anything?",
         name: "ProjectInstallations",
     },
-   
+    // Question 5
+    {
+        type: "input",
+        message: "What's your Github username?",
+        name: "useername",
+    },
     // Question 6
     {
         type: "input",
@@ -57,6 +62,11 @@ inquirer.prompt([
         type: "input",
         message: "What is your email?",
         name: "email",
+    },
+       {
+        type: "input",
+        message: "What's your Github username?",
+        name: "useername",
     }
     // What to do when I get the answers
 ]).then(function (response) {
@@ -67,7 +77,7 @@ inquirer.prompt([
 _${response.ProjectDescription}_
 --------------------------------
 ## author: ${response.contribution}
-
+## Developer Profile: https://github.com/${response.username}
 
 ### Table Of Contents
 * [license](#license)
